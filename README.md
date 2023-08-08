@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">👋 Hi! I'm John or  SW1SSYY</h1>
-<h3 align="center"> 👨‍🎓Recent MEng Computer Science Graduate </h3>
+<h3 align="center"> 👨‍🎓 MEng Computer Science Graduate </h3>
 
 -  Featured Project - 🌱[Spring Boot Education MicroServices](https://github.com/sw1ssyy/StudentPortal)
 
